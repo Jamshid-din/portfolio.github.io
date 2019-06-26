@@ -1,8 +1,4 @@
-HTML5 beautiful website.
-
-
-
-
+HTML5 beautiful responsive website.
 
 Icons:
 	Font Awesome (fontawesome.io)
